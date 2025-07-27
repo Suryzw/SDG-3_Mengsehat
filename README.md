@@ -1,7 +1,7 @@
 
 # 📖 Judul Projek
 
-Sistem Informasi Gaya Hidup Sehat Berbasis _Weather_ API untuk Masyarakat Perkotaan Berbasis _Website_
+SDGs 3 (_Good Health and Well-Being_): Sistem Informasi Gaya Hidup Sehat Berbasis _Weather API_ untuk Masyarakat Perkotaan Berbasis _Website_
 
 
 ## 🌐 Demo
