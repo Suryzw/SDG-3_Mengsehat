@@ -3,13 +3,11 @@
 
 Sistem Informasi Gaya Hidup Sehat Berbasis _Weather_ API untuk Masyarakat Perkotaan Berbasis _Website_
 
----
 
 ## 🌐 Demo
 
 [Live Demo] https://mengsehat.free.nf/
 
----
 
 
 ## 🚀 Fitur Utama
@@ -83,7 +81,6 @@ Folder berikut tidak termasuk dalam repository karena diabaikan oleh .gitignore:
 
 ```node_modules/``` → Harus di-install dengan npm install
 
----
     
 ## ⚙️ Konfigurasi Tambahan
 ### Penggunaan API
