@@ -73,8 +73,6 @@ Edit ```.env``` sesuai kebutuhan, terutama bagian koneksi database dan nama apli
 
 Aplikasi akan tersedia di http://localhost:8000
 
----
-
 ### 📦 Catatan
 Folder berikut tidak termasuk dalam repository karena diabaikan oleh .gitignore:
 
